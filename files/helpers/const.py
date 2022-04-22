@@ -90,7 +90,8 @@ SLURS = {
 	"kung flu": "SARS-CoV-2 syndemic",
 	"elon musk": "rocket daddy",
 	" elon ": " rocket daddy ",
-	"fake and gay": "fake and straight"
+	"fake and gay": "fake and straight",
+	"heil hitler": "hello kitty"
 }
 
 single_words = "|".join([slur.lower() for slur in SLURS.keys()])
