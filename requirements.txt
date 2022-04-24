@@ -26,4 +26,3 @@ pyenchant
 youtube-dl
 yattag
 webptools
-regex
